@@ -6,7 +6,7 @@
     "license": "Open Source",
     "id": "GanttChartWidget",
    "version": "1.0.1",
-    "icon": "https://planifyit.github.io/Pie_chart/PlanifyIT_Logo2.png",
+    "icon": "",
     "vendor": "Planifyit",
     "webcomponents": [
         {
